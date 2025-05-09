@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adbDebugging", "adbDebugging.csproj", "{62293215-0F64-4EA4-8C9F-75E16A83F63A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{D077CA82-B5CF-4677-8AE7-AFE562511BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62293215-0F64-4EA4-8C9F-75E16A83F63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62293215-0F64-4EA4-8C9F-75E16A83F63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62293215-0F64-4EA4-8C9F-75E16A83F63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62293215-0F64-4EA4-8C9F-75E16A83F63A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E586861F-FAFA-416C-A56F-EA230D3405EC}
+	EndGlobalSection
+EndGlobal
